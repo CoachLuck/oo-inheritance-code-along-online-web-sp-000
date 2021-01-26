@@ -4,5 +4,3 @@ class Car < Vehicle
 
 
 end
-
-Car.new().go
